@@ -1,0 +1,28 @@
+/* --- typography / general */
+
+h1 {
+  font: bold 5em/1.1 "Arial Narrow", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  margin-top: 0;
+  margin-bottom: .3em;
+  }
+
+.wf h1 {
+  font-family: Bebas, "Arial Narrow", sans-serif;
+  }
+
+p {
+  font: 1em/1.4 Arial, sans-serif;
+  }
+
+/* --- import webfonts ---*/
+
+@font-face {
+  font-family: "Bebas";
+  src: url("../fonts/bebas-webfont.woff2") format("woff2"),
+       url("../fonts/bebas-webfont.woff") format("woff"),
+       url("../fonts/bebas-webfont.tff") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
