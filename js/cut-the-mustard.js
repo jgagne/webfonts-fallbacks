@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+// document.addEventListener('DOMContentLoaded', function() {
 
 // if('querySelector' in document
 //   && 'localStorage' in window
@@ -8,4 +8,4 @@ document.addEventListener('DOMContentLoaded', function() {
 //   wf.classList.add('wf');
 //   }
 
-}, false);
+// }, false);
