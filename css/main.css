@@ -12,7 +12,7 @@
 /* --- typography / general */
 
 h1 {
-  font: bold 5em/1.1 "Arial Narrow", sans-serif;
+  font: bold 5em/1.1 Bebas, "Arial Narrow", sans-serif;
   text-transform: uppercase;
   letter-spacing: .1em;
   margin-top: 0;
