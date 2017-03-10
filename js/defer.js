@@ -1,6 +1,6 @@
 function jsOnload() {
 var element = document.createElement("script");
-element.src = "js/cut-the-mustard.js";
+element.src = "js/functions.js";
 document.body.appendChild(element);
 }
 if (window.addEventListener)
